@@ -1,12 +1,13 @@
 ## About
 
-This trial project for Incloud Company, see the [Remote Assignment](https://github.com/tenkyu/Incloud/remote_assignment.pdf)
+This trial project for Incloud Company, see the [Remote Assignment](https://github.com/tenkyu/Incloud/raw/master/remote_assignment.pdf)
 
 ## Installation
 Make sure that .Net Core 2.1 is installed on your system. Clone the project and open with Visual Studio 2017 or any .Net runtime editor, just run it.
 
 ## Explanation
 Please watch my video
+
 [![Incloud trial project](http://img.youtube.com/vi/8p-99W3BRxc/0.jpg)](http://www.youtube.com/watch?v=8p-99W3BRxc)
 
 I use Bootstrap 4 for responsive design, and use momentjs for handling time in frontend side. There are some several components for UI design from Bower, please see the bower.json
