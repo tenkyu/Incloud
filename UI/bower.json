@@ -2,6 +2,8 @@
   "name": "asp.net",
   "private": true,
   "dependencies": {
-    "eonasdan-bootstrap-datetimepicker": "4.17.47"
+    "eonasdan-bootstrap-datetimepicker": "4.17.47",
+    "moment-duration-format": "2.2.2",
+    "jquery.serializeJSON": "2.5.0"
   }
 }
